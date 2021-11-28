@@ -1,0 +1,25 @@
+input{
+    height: 50px;
+    width:60px;
+    color: rgb(221, 48, 17);
+    background-color: rgb(243, 241, 241);
+
+}
+.text{
+    color:white;
+}
+.clear{
+    background-color: rgb(44, 43, 43);
+}
+.enter{
+height: 50px;
+width: 125px;
+}
+.clr{
+    color: rgb(221, 48, 17);
+}
+input:hover{
+    background-color: rgb(221, 48, 17);
+    color:white;
+    border-color: white;
+           }
